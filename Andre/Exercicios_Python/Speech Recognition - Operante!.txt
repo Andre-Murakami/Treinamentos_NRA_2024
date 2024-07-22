@@ -1,0 +1,1 @@
+teste_speech.py está operante!
