@@ -1,1 +1,1 @@
-teste_speech.py está operante!
+teste_speech.py está operante!!
